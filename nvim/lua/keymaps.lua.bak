@@ -1,0 +1,5 @@
+vim.g.mapleader = " "
+
+-- Explorer -- Netrw -- double space on/off file explorer netrw
+vim.keymap.set('n', '<leader><space>', ':Lexplore<CR>')
+
